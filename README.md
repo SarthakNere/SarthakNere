@@ -1,10 +1,14 @@
 # Hi, I'm Sarthak 👋
 
-**Computer Engineering graduate (AI & ML Honors) from Nashik, India.**
+**Computer Engineering graduate (Honors in AI & ML) from Nashik, India.**
 I build machine learning models and full-stack apps, and I like turning raw data into something people can actually explore.
 
-## 🔭 What I'm working on
-- **[Akash-Tattva](https://github.com/SarthakNere/Akash-Tattva)**: environmental monitoring platform (AQI, ozone depletion, carbon footprint ML model, 3D globe) built with FastAPI + React + Three.js. My final-year project.
+## 🚀 Featured project
+**[Akash-Tattva](https://github.com/SarthakNere/Akash-Tattva)** is a full-stack environmental monitoring platform I built as my final-year project. It combines real-time AQI data, ozone depletion trends, an interactive 3D globe and a carbon footprint predictor, using FastAPI, React, Three.js and scikit-learn.
+
+## 🌱 Currently
+- Looking for internships and entry-level roles in machine learning and full-stack development
+- Strengthening my skills in deploying ML models and building end-to-end projects
 
 ## 🛠️ Tech stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -18,16 +22,16 @@ I build machine learning models and full-stack apps, and I like turning raw data
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📌 Featured projects
+## 📌 Projects
 | Project | What it does | Stack |
 |---|---|---|
-| [Akash-Tattva](https://github.com/SarthakNere/Akash-Tattva) | AQI dashboards, ozone trends, carbon footprint predictor | FastAPI, React, Three.js, scikit-learn |
+| [Akash-Tattva](https://github.com/SarthakNere/Akash-Tattva) | AQI dashboards, ozone trends, carbon footprint predictor, 3D globe | FastAPI, React, Three.js, scikit-learn |
 | [ChurnGuard](https://github.com/SarthakNere/ChurnGuard) | Customer churn prediction | Python, Jupyter |
 | [Diabetes-Prediction](https://github.com/SarthakNere/Diabetes-Prediction) | Classification model for diabetes risk | Python, scikit-learn |
 | [CarPricePredictor](https://github.com/SarthakNere/CarPricePredictor) | Regression model for used-car prices | Python, scikit-learn |
 | [AI-Ticket-System](https://github.com/SarthakNere/AI-Ticket-System) | *(one line on what it does)* | *(stack)* |
 
-## 📫 Reach me
+## 📫 Get in touch
 [LinkedIn](https://linkedin.com/in/sarthaknere) · sarthaknere09@gmail.com
 
 ## 📊 GitHub stats
